@@ -71,5 +71,6 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 [medium]: https://medium.com/@nic-obert
 [discord]: https://discord.com/channels/nic#2519
+[zhihu]:https://www.zhihu.com/people/SinnLiu
 
 

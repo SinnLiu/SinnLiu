@@ -1,4 +1,4 @@
-# **Nicholas Obert**
+# **Sinn Liu**
 I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 * 💻 **Low Level Lover**
@@ -9,7 +9,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 *  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=24 height=24> **Linux User** (I use Arco, btw)
 
 
-[![Nicholas Obert's GitHub stats](https://github-readme-stats.vercel.app/api?username=nic-obert)](https://github.com/anuraghazra/github-readme-stats)
+[![Nicholas Obert's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinnLiu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Currently working on

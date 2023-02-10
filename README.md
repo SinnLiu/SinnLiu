@@ -66,12 +66,12 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 [<img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width=48 height=48>][medium]
 [<img src="https://api.iconify.design/logos:discord-icon.svg" width=48 height=48>][discord]
-[<img src="https://pic2.zhimg.com/v2-dabccb1dd4014217316be5ea14021653_xll.jpg" width=48 height=48>][zhihu]
-
+[<img src="https://pic.ntimg.cn/file/20191218/10647388_182059610085_2.jpg" width=48 height=48>][zhihu]
+[<img src="https://static.startuptalky.com/2020/11/45e99a0d-f0ca-4b17-951a-ed0947f3fd0e-1510667426262.png" width=48 height=48>][researchgate]
 <!-- [<img src="" width=48 height=48>][] -->
 
 [medium]: https://medium.com/@nic-obert
 [discord]: https://discord.com/channels/nic#2519
 [zhihu]: https://www.zhihu.com/people/SinnLiu
-
+[researchgate]: https://www.researchgate.net/profile/Xin-Liu-474?ev=hdr_xprf
 

@@ -21,7 +21,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
   <img src="https://api.iconify.design/logos:python.svg" alt="Python" width=48 height=48>
   <img src="https://api.iconify.design/logos:c.svg" alt="C" width=48 height=48>
   <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="C++" width=48 height=48>
-  <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" alt="Rust" width=48 height=48>
+  <img src="https://api.iconify.design/vscode-icons:file-type-verilog.svg" alt="verilog" width=48 height=48>
   
 
 </span>

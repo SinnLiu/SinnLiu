@@ -64,7 +64,6 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 ## Reach me on
 
-[<img 
 [<img src="https://img.ixintu.com/upload/jpg/20210522/b05acded12fb49f9fd699bc962741e1e_63206_800_800.jpg!ys" width=48 height=48>][zhihu]
 [<img src="https://avatars.githubusercontent.com/u/1073651?s=280&v=4" width=48 height=48>][researchgate]
 [<img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.LdfLgMTOCYuzT4CSRlyjKQAAAA?pid=ImgDet&rs=1" width=48 height=48>][bilibili]

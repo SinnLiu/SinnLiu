@@ -64,16 +64,13 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 ## Reach me on
 
-[<img src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" width=48 height=48>][medium]
-[<img src="https://api.iconify.design/logos:discord-icon.svg" width=48 height=48>][discord]
+[<img 
 [<img src="https://img.ixintu.com/upload/jpg/20210522/b05acded12fb49f9fd699bc962741e1e_63206_800_800.jpg!ys" width=48 height=48>][zhihu]
 [<img src="https://avatars.githubusercontent.com/u/1073651?s=280&v=4" width=48 height=48>][researchgate]
-[<img src="https://brandlogos.net/wp-content/uploads/2022/03/blibli-logo-brandlogo.net_-200x200.png" width=48 height=48>][bilibili]
+[<img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.LdfLgMTOCYuzT4CSRlyjKQAAAA?pid=ImgDet&rs=1" width=48 height=48>][bilibili]
 
 <!-- [<img src="" width=48 height=48>][] -->
 
-[medium]: https://medium.com/@nic-obert
-[discord]: https://discord.com/channels/nic#2519
 [zhihu]: https://www.zhihu.com/people/SinnLiu
 [researchgate]: https://www.researchgate.net/profile/Xin-Liu-474?ev=hdr_xprf
 [bilibili]: https://space.bilibili.com/44834471

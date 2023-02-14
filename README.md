@@ -14,7 +14,7 @@ I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
 
 ## Currently working on
 - [**Virtual Machine**](https://github.com/nic-obert/virtual-machine)
-- [**WaterScript**](https://github.com/nic-obert/waterscript)
+- [**ventus-gpgpu**](https://github.com/THU-DSP-LAB/ventus-gpgpu)
 
 ## Most familiar with
 <span>

@@ -1,5 +1,6 @@
 # **Sinn Liu**
 I'm a **Student** passionate about **Tech**, **Science** and **Programming**.
+![Suggestion](https://user-images.githubusercontent.com/20215362/221346140-1c206445-538b-4be8-9ab5-0cc6f5ec7bb7.gif)
 
 * 💻 **Low Level Lover**
 * 🧠 **Machine Learning Enthusiast**
